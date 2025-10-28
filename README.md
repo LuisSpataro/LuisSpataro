@@ -33,6 +33,7 @@ Continuous improvement and clear documentation are my foundations for technical 
 🐳 **Containers:** Docker, Kubernetes  
 🏗 **IaC:** Terraform  
 ⚙️ **Automation:** Bash, CI/CD, Python 
+
 🧩 **Virtualization:** VMware Workstation, Hyper-V, Proxmox  
 🪣 **Version Control:** Git  
 
