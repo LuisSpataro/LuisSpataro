@@ -32,8 +32,7 @@ Continuous improvement and clear documentation are my foundations for technical 
 🖥 **OS:** Linux (Ubuntu / Debian / Red Hat / Rocky / Alma), Windows Server 
 🐳 **Containers:** Docker, Kubernetes  
 🏗 **IaC:** Terraform  
-⚙️ **Automation:** Bash, CI/CD, Python 
-
+⚙️ **Automation:** Bash, CI/CD, Python
 🧩 **Virtualization:** VMware Workstation, Hyper-V, Proxmox  
 🪣 **Version Control:** Git  
 
